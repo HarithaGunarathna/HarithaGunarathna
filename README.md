@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 I'm a software engineer who enjoys building and solving real-world problems through code. I love exploring different areas of technology, from web development to automation and open-source projects.
 
 I'm Currently working on some ideas I had recently
-- Building and improving personal projects
-- Building a Travel Map to pin/highlight locations I travlled keeping memories.
+- Building a data collection framework aiming non technical users.
+- Building a Travel Map to pin/highlight locations I travelled keeping memories.
 
-### Languages
+Also I'm currently looking to collaborate on open source projects that needs contributions.
+
+### proficient Languages
 - JavaScript / TypeScript
 - Python
 - Java
@@ -32,6 +34,8 @@ I'm Currently working on some ideas I had recently
 - Node.js
 - Express
 - Tailwind CSS
+- Spring Boot
+- Fast API.
 
 ## 📫 How to reach me
 - Email: harithagunarathna.7@gmail.com.com
